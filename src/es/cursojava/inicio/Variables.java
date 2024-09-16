@@ -1,4 +1,4 @@
-ºpackage es.cursojava.inicio;
+package es.cursojava.inicio;
 
 public class Variables {
 
